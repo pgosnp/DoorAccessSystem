@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=roll\ name\ id
+comment0.target=Admin(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=boolean\ checkId()
+comment2.params=u
+comment2.target=boolean\ checkId(User)
+numComments=3

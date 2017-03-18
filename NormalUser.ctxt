@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=roll\ name\ id\ dept
+comment0.target=NormalUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String[])
+comment1.params=
+comment1.target=java.lang.String[]\ getDept()
+comment2.params=
+comment2.target=boolean\ checkId()
+comment3.params=u
+comment3.target=boolean\ checkId(NormalUser)
+numComments=4
